@@ -1,0 +1,6 @@
+Week 2 Tasks
+
+This folder contains:
+- Task 1: Virtual Environment Setup
+- Task 2: YOLO Installation
+- Task 3: Object Detection
